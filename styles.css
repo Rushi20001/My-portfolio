@@ -3,7 +3,7 @@
 :root{
     --primary-color: #2563eb;
     --grey: #52525b;
-
+--off-white: #f1f5f9;
     
 }
 
@@ -97,5 +97,22 @@ hr{
 .hero .hero-heading .heading-inverted{
     color: var(--primary-color);
 }
+
+/** scetion **/
+.section{
+padding: 2rem;
+
+}
+.section h1{
+    padding: 2rem;
+text-align: center;}
+
+.ow{
+    background-color: var(--off-white);
+}
+
+
+
+
 
 

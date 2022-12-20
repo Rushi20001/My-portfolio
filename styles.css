@@ -2,7 +2,8 @@
 
 :root{
     --primary-color: #2563eb;
-    
+    --grey: #52525b;
+
     
 }
 
@@ -76,7 +77,25 @@ hr{
     
 }
 
+/** header **/
 
+.hero{
+    padding: 2rem;
+}
 
+.hero .hero-img{
+    max-width: 350px;
+    display: block;
+    margin: auto;
+}
+
+.hero .hero-heading{
+    color: var(--grey); 
+    text-align: center;
+}
+
+.hero .hero-heading .heading-inverted{
+    color: var(--primary-color);
+}
 
 

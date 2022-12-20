@@ -92,6 +92,7 @@ hr{
 .hero .hero-heading{
     color: var(--grey); 
     text-align: center;
+    padding-top: 1rem;
 }
 
 .hero .hero-heading .heading-inverted{
@@ -110,6 +111,20 @@ text-align: center;}
 .ow{
     background-color: var(--off-white);
 }
+
+/** footer **/
+.footer{
+    background-color: #2563eb;
+    padding: 1rem 0rem;
+    text-align: center;
+    color: white;
+    border-bottom-left-radius: 1rem;
+}
+
+.footer .links{
+    color: white;
+}
+
 
 
 

@@ -36,13 +36,14 @@ hr{
 
 .link-primary{
     background-color: var(--primary-color);
-    border-radius: 0.5rem;
+    border-radius: 1rem;
     color: white;
+    
 }
 
 .link-secondary{
    color: var(--primary-color);
-    border-radius: 0.5rem;
+    border-radius: 2rem;
     border: 1px solid var(--primary-color);
 }
 
@@ -99,17 +100,18 @@ hr{
     color: var(--primary-color);
 }
 
-/** scetion **/
+/** section **/
 .section{
-padding: 2rem;
+    padding: 1rem;
 
 }
 .section h1{
     
-text-align: center;}
-
+text-align: center;
+}
 .ow{
     background-color: var(--off-white);
+    
 }
 
 /** footer **/
@@ -119,6 +121,10 @@ text-align: center;}
     text-align: center;
     color: white;
     border-bottom-left-radius: 1rem;
+}
+.footer .footer-header{
+    
+    font-size: large;
 }
 
 .footer .links{

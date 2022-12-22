@@ -26,6 +26,7 @@ hr{
 .container-center{
  max-width: 600px;
  margin: auto;
+ text-align: center;
 }
 
 /** links **/
@@ -117,7 +118,7 @@ text-align: center;
 /** footer **/
 .footer{
     background-color: #2563eb;
-    padding: 1rem 0rem;
+    padding: 0.5rem 0rem;
     text-align: center;
     color: white;
     border-bottom-left-radius: 1rem;

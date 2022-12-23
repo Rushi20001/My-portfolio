@@ -2,5 +2,6 @@
 Hi! I am Rushi. Welcome to my portfolio.
 I am learning HTML,CSS,javaScript
 
-# Technologies
-HTML,CSS,JavaScipt,nodeJs
+# Langauges used
+- HTML
+- CSS
